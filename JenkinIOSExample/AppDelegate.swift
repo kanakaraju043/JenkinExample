@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  JenkinIOSExample
 //
-//  Created by kanakaraju on 20/05/19.
 //  Copyright © 2019 Administrator. All rights reserved.
 //
 
