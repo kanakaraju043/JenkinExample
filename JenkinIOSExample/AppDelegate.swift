@@ -1,7 +1,5 @@
 //
 //  AppDelegate.swift
-//  JenkinIOSExample
-//
 //  Copyright © 2019 Administrator. All rights reserved.
 //
 
